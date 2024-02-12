@@ -1,0 +1,4 @@
+- 👋 Hi, I’m omar alsayed
+- 🌱 I’m currently learning laravl
+- 📫 How to reach me:
+- ⚡ Fun fact:I'm a geek who loves video games And really love Tech World 
