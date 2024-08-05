@@ -1,5 +1,5 @@
 - 👋 Hi, I’m omar alsayed
 - 🌱 I’m currently learning laravel
 - 💬 Ask me about php,flutter,sql
-- 📫 How to reach me:
+- 📫 How to reach me:omar.alsayed201@gmail.com
 - ⚡ Fun fact:I'm a geek who loves video games And really love Tech World 
